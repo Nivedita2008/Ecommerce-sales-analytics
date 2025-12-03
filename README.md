@@ -3,7 +3,7 @@
 
 This project showcases an interactive E-Commerce Sales Dashboard built using Power BI for analyzing business performance across products, regions, and time periods.
 
-# Key Features & Insights
+## Key Features & Insights
 
 - KPIs Displayed: Total Sales Amount (438K), Total Profit (37K), Total Quantity Sold (5615), Average Order Value (121K)
 
@@ -19,11 +19,11 @@ This project showcases an interactive E-Commerce Sales Dashboard built using Pow
 
 - Filters: Quarter and State filters for detailed drill-down insights
 
-# Objective
+## Objective
 
 To help business stakeholders understand sales behavior, identify high-profit months, and make informed decisions to improve revenue and market expansion.
 
-# Tools & Skills Used
+## Tools & Skills Used
 
 - Power BI
 
@@ -35,7 +35,7 @@ To help business stakeholders understand sales behavior, identify high-profit mo
 
 - Business Intelligence & Data Visualization
 
-# Outcome
+## Outcome
 
 - The dashboard provides clear visibility into business performance, enabling decisions on:
 
