@@ -1,5 +1,4 @@
-# Ecommerce-sales-analytics
-## Ecommerce Sales Dashboard – Power BI
+# Ecommerce Sales analytics – Power BI
 
 This project showcases an interactive E-Commerce Sales Dashboard built using Power BI for analyzing business performance across products, regions, and time periods.
 
